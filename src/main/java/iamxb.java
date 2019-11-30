@@ -12,4 +12,8 @@ public class iamxb {
          int[] arr={1,5,77};
         System.out.println(arr);
     }
+    public  void work2(){
+         int[] arr={1,5,77};
+        System.out.println(arr);
+    }
 }
