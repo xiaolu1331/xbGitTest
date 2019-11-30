@@ -6,6 +6,6 @@ public class iamxb {
     public void version(){
         //感谢小璐关注
         String cloudits;
-        cloudits="http://wwww.dhkjc.com;
+        cloudits="http://wwww.dhkjc.com";
     }
 }
