@@ -3,4 +3,7 @@ public class iamxb {
         System.out.println("hhh");
 
     }
+    public void version(){
+        //感谢小璐关注
+    }
 }
