@@ -8,4 +8,8 @@ public class iamxb {
         String cloudits;
         cloudits="http://wwww.dhkjc.com";
     }
+    public  void work(){
+         int[] arr={1,5,77};
+        System.out.println(arr);
+    }
 }
